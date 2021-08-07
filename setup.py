@@ -30,7 +30,7 @@ setup(
     name='sshyc',
 
     # Version following SemVer Style
-    version='1.0.0',
+    version='1.0.1',
 
     # Description of the Package
     description='SSHYC short for SSH YAML Configuration is tool to make .ssh/config from YAML files.',
@@ -59,7 +59,7 @@ setup(
         # 'Development Status :: 5 - Production/Stable'
         # 'Development Status :: 6 - Mature'
         # 'Development Status :: 7 - Inactive'
-        'Development Status :: 3 - Alpha',
+        'Development Status :: 5 - Production/Stable',
 
         # Indicate who your project is intended for
         'Intended Audience :: Developers',
@@ -90,8 +90,6 @@ setup(
     # You can just specify the packages manually here if your project is
     # simple. Or you can use find_packages().
     packages=find_packages(exclude=['contrib', 'docs', 'tests']),
-    # packages=["pwbs"],
-    # packages=find_packages(exclude=['docs', 'tests*']),
 
     # Alternatively, if you want to distribute just a my_module.py, uncomment
     # this:

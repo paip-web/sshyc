@@ -79,7 +79,7 @@ def main() -> None:
     print("SSH YAML Configuration v.{0}".format(__version__))
 
     # Variables
-    config_path = os.path.expanduser('~/.ssh/config_sshyc')
+    config_path = os.path.expanduser('~/.ssh/config')
 
     # Check if config files exist
     file_paths = [
