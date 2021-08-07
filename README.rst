@@ -1,7 +1,7 @@
 SSH YAML Configuration
 ======================
 
-Actual Version : **1.0.1**
+Actual Version : **1.0.2**
 
 **SSHYC** short for SSH YAML Configuration is tool to make .ssh/config from YAML files.
 

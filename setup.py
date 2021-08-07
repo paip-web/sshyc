@@ -30,7 +30,7 @@ setup(
     name='sshyc',
 
     # Version following SemVer Style
-    version='1.0.1',
+    version='1.0.2',
 
     # Description of the Package
     description='SSHYC short for SSH YAML Configuration is tool to make .ssh/config from YAML files.',

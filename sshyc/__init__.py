@@ -11,7 +11,7 @@ LICENSE - MIT
 """Title of Program"""
 __title__ = 'sshyc'
 """Version of Program"""
-__version__ = '1.0.1'
+__version__ = '1.0.2'
 """Author of the module"""
 __author__ = 'Patryk Adamczyk'
 """Module License"""
