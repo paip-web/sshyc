@@ -13,7 +13,7 @@ and this project adheres to `Semantic Versioning
 --------------------
 
 Changed
-~~~~~
+~~~~~~~
 - Updated package on PyPi
 
 
