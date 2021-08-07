@@ -9,25 +9,9 @@ with additional group for informations,
 and this project adheres to `Semantic Versioning
 <https://semver.org/spec/v2.0.0.html>`_.
 
-[0.1.0] - 2021-08-07
+[1.0.0] - 2021-08-08
 --------------------
 
 Added
 ~~~~~
-- M
-
-Changed
-~~~~~~~
-- R
-
-Deprecated
-~~~~~~~~~~
-- P
-
-Removed
-~~~~~~~
-- P
-
-Fixed
-~~~~~
-- C
+- Basic functionality

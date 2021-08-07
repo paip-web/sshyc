@@ -15,6 +15,7 @@ with io.open('HISTORY.rst', encoding='utf-8') as history_file:
 # Requirements Variable
 requirements: list = [
     # Package Requirements
+    'pyyaml',
 ]
 # Setup Requirements Variable
 setup_requirements: list = [
@@ -29,7 +30,7 @@ setup(
     name='sshyc',
 
     # Version following SemVer Style
-    version='0.1.0',
+    version='1.0.0',
 
     # Description of the Package
     description='SSHYC short for SSH YAML Configuration is tool to make .ssh/config from YAML files.',
